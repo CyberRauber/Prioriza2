@@ -10,6 +10,10 @@ Esta versão de desenvolvimento fica no repositório [CyberRauber/Prioriza2](htt
 - Gestão interna com triagem por oito critérios, ranking, atualização de status e histórico de decisões.
 - Matriz de Eisenhower complementar.
 
+## Versão publicada
+
+Quando o GitHub Actions concluir a publicação, o site ficará disponível em https://cyberrauber.github.io/Prioriza2/ e o aplicativo em https://cyberrauber.github.io/Prioriza2/app/.
+
 ## Executar localmente
 Requer Node.js e npm.
 
